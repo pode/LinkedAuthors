@@ -1,0 +1,10 @@
+### LinkedAuthors
+#
+# A Pode project in two steps to convert marc21slim bibligraphic metadata
+# to RDF semantic records, in order to enrich relationship data on 
+# works and authors
+#
+# CONTENT
+# per_petterson.v2.xml	- a FRBRized xml file of Per Petterson files
+# frbr2rdf.xsl		- an xslt stylesheet to convert xml to turtle (RDF/n3)
+# pode_mapping.xls	- excel stylesheet showing mapping from frbs to rdf
